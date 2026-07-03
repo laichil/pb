@@ -1,0 +1,13 @@
+[package]
+name = "pb"
+version = "0.2.0"
+edition = "2024"
+
+[dependencies]
+arboard = "3.4"
+zhconv = "0.4"
+anyhow = "1.0"
+colored = "3.1.1"
+glob = "0.3.3"
+regex = "1.12.3"
+
