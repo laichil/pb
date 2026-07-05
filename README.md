@@ -1,4 +1,4 @@
+
 # pb
 clipboard yank
-
-[![Watch the demo]](https://youtu.be/HaLWFr26Oyc?si=uuD5vEAqjQHT4eUa)
+https://github.com/user-attachments/assets/5e13e315-8dd3-455e-9ae0-5fb598c78de5
