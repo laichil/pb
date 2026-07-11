@@ -768,4 +768,3 @@ fn print_aligned_example(command: &str, comment: &str) {
         format!("# {}", comment).bright_black()
     );
 }
-
